@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sabin Gautam
 #### I'm UI Designer || Front-end Developer || Social Media Designer || Love to Learn new technology
-Hi! I'm Sabin Gautam. I always seek to move from more or less excellent ideas through visual communication. I strive for two things in design: simplicity and clarity. Great design is born of those two things.
+I always seek to move from more or less excellent ideas through visual communication. I strive for two things in design: simplicity and clarity. Great design is born of those two things.
 
 Skills: HTML / CSS JS /  REACT 
 
